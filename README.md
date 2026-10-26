@@ -101,7 +101,7 @@ Coins buy upgrades, new floors behind each zone's barrier, and managers that run
 Install **JDK 21** and **Git**. The Gradle wrapper is included.
 
 ```sh
-git clone git@github.com:EpitechBachelorPromo2028/B-OOP-301-MPL-3-1-2dgame-4.git
+git clone git@github.com:leobellard/Idle-Smoothie.git
 cd Idle-Smoothie
 make run      # or ./gradlew run
 make test     # or ./gradlew test
