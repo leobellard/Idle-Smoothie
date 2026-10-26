@@ -17,7 +17,7 @@
 
 ## Demo
 
-https://github.com/user-attachments/assets/5948633a-cbe7-410e-8047-a69330458265
+https://github.com/user-attachments/assets/c55f9137-dd3a-4490-96e5-364ecab2c112
 
 <sub>A run from the first floor: tapping the stations, upgrading, unlocking floors and hiring managers.</sub>
 
@@ -102,7 +102,7 @@ Install **JDK 21** and **Git**. The Gradle wrapper is included.
 
 ```sh
 git clone git@github.com:EpitechBachelorPromo2028/B-OOP-301-MPL-3-1-2dgame-4.git
-cd B-OOP-301-MPL-3-1-2dgame-4
+cd Idle-Smoothie
 make run      # or ./gradlew run
 make test     # or ./gradlew test
 ```
